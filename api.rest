@@ -1,0 +1,11 @@
+GET http://localhost:3000/firstApi/63c92b87b45bc014e938c5fb
+
+###
+
+POST http://localhost:3000/firstApi
+Content-Type: application/json
+
+{
+    "apiName": "Kartik's Api",
+    "apiData": "Boht Kuch hai"
+}
